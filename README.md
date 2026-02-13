@@ -26,10 +26,9 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 
----
 
-### 📈 My GitHub Activity
-![Shyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shyam-sk25&show_icons=true&theme=transparent)
+
+
 
 ---
 
