@@ -1,4 +1,4 @@
-# Hi, I'm Shyam | Aspiring Data Professional 👋
+# Hi, I'm Shyam kumar S| Aspiring Data Professional 👋
 
 * 🚀 **Career Goal:** Actively seeking entry-level opportunities across the **Data domain** (Data Analyst, Associate Data Scientist, Data Engineer, or BI roles).
 * 🔭 **Currently:** Developing end-to-end Data Science, ML, and DL pipelines.
