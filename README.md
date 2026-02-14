@@ -1,36 +1,26 @@
-# Hi, I'm Shyam kumar S| Aspiring Data Professional 👋
+# Shyam Kumar S | Data Science & ML 👋
 
-* 🚀 **Career Goal:** Actively seeking entry-level opportunities across the **Data domain** (Data Analyst, Associate Data Scientist, Data Engineer, or BI roles).
-* 🔭 **Currently:** Developing end-to-end Data Science, ML, and DL pipelines.
-* 🌱 **Learning:** Advanced Neural Networks and Large Language Models (LLMs).
-* 👯 **Collaboration:** Open to working on Open Source Data Science projects or Kaggle competitions.
-* 💬 **Ask me about:** Python, Data Visualization, and Machine Learning basics.
-* 📫 **Contact:** [shyamkumar.sk699@gmail.com](mailto:shyamkumar.sk699@gmail.com)
-* 🔗 **LinkedIn:** [shyam-kumar-s](https://www.linkedin.com/in/shyam-kumar-s-194238201/)
+**Aspiring Data Professional | Problem Solver | Continuous Learner**
+
+I'm a Data enthusiast focused on building smart solutions through Machine Learning and Deep Learning. Currently, I'm perfecting my skills in neural networks and active job hunting for roles in Data Analytics, Engineering, or Science.
 
 ---
 
-### 🛠 My Tech Stack
+### 🛠 Tech Stack
 
-**Programming & Data Science**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+**Languages & Data** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-**Machine Learning & AI**
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+**ML & Deep Learning** ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 
-**Databases & Tools**
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
-
-
-
-
+**Tools** ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
 ---
 
-### 💼 Career Status
-> **Open to Work:** I am looking for a data-driven role where I can apply my analytical skills to solve real-world problems. Let's connect!
+### 📫 Connect with me
+* 📧 **Email:** [shyamkumar.sk699@gmail.com](mailto:shyamkumar.sk699@gmail.com)
+* 💼 **LinkedIn:** [shyam-kumar-s](https://www.linkedin.com/in/shyam-kumar-s-194238201/)
+
+---
+
+### 💼 Current Status
+**Open to Work:** Ready to join a team where I can turn data into impact. If you're hiring for Data Analyst, BI, or Junior Data Scientist roles, let’s talk!
